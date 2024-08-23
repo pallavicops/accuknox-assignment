@@ -39,6 +39,7 @@ const Header = () => {
   const handleSearch = (searchTerm) => {
     // const results = dispatch(searchByWidgetName(searchTerm));
     // console.log(results);
+    console.log(searchTerm);
   };
 
 
